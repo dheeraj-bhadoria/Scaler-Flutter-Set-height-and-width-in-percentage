@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 class Scaler extends StatelessWidget {
   const Scaler({super.key});
 
-  static double width(int width, BuildContext context) {
+  static double width(double width, BuildContext context) {
     return MediaQuery.of(context).size.width * width;
   }
 
-  static double height(int height, BuildContext context) {
+  static double height(double height, BuildContext context) {
     return MediaQuery.of(context).size.height * height;
   }
 

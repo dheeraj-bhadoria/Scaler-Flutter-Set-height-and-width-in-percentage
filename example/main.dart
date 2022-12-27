@@ -46,8 +46,8 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Container(
-          height: Scaler.height(100, context),
-          width: Scaler.width(100, context),
+          height: Scaler.height(0.25, context),
+          width: Scaler.width(0.25, context),
           child:
               Container()), // This trailing comma makes auto-formatting nicer for build methods.
     );

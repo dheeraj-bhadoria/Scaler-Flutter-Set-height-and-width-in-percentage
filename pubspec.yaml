@@ -15,7 +15,7 @@ repository: https://github.com/dheeraj-bhadoria/Scaler-Flutter-Set-height-and-wi
 # https://developer.apple.com/library/archive/documentation/General/Referencey/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.8+1
+version: 1.0.9+1
 
 environment:
   sdk: '>=2.18.4 <3.0.0'

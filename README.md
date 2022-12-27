@@ -10,7 +10,7 @@ To design responsive UI. Set your width height on the basis of percentage of the
 
 ## How it support
 
-| 10 | 15 | 25 | 55 | 90 | 100 |
+| 0.1 | 0.15 | 0.25 | 0.55 | 0.90 | 1.0 |
 | :-----: | :-: | :---: | :-: | :---: | :-----: |
 |   10%️    | 15%️  |  25%️   | 55%️  |  90%️   |   100%️    |
 
@@ -41,7 +41,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```yaml
     dependencies:
-      scaler: ^1.0.8+1
+      scaler: ^1.0.9+1
 ```
 
 Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
@@ -70,8 +70,8 @@ import 'package:scaler/scaler.dart';
        * and 25% height of screen
        */
       return   Container(
-          height: Scaler.height(25, context),
-          width: Scaler.width(25, context),
+          height: Scaler.height(0.25, context),
+          width: Scaler.width(0.25, context),
           child: Container()
       );
     }
