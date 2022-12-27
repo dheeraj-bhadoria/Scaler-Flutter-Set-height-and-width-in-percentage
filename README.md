@@ -3,11 +3,11 @@
 To design responsive UI. Set your width height on the basis of percentage of the screen. Its value will be between ( 0 -1 ) set the value between 0 to 1 for 0 to 100% scale to width/height of screen.
 
 
-![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/scaler1.png)
+![image description](https://github.com/dheeraj-bhadoria/Scaler-Flutter-Set-height-and-width-in-percentage/blob/main/scaler1.png)
 
-![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/scaler2.png)
+![image description](https://github.com/dheeraj-bhadoria/Scaler-Flutter-Set-height-and-width-in-percentage/blob/main/scaler2.png)
 
-![image description](https://github.com/dheeraj-bhadoria/Smart-Logger-Debug-mode-only-/blob/main/scaler3.png)
+![image description](https://github.com/dheeraj-bhadoria/Scaler-Flutter-Set-height-and-width-in-percentage/blob/main/scaler3.png)
 
 ## Platform Support
 
