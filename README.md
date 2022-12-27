@@ -9,7 +9,6 @@ To design responsive UI. Set your width height on the basis of percentage of the
 
 ![image description](https://github.com/dheeraj-bhadoria/Scaler-Flutter-Set-height-and-width-in-percentage/blob/main/scaler3.png)
 
-
 ## Platform Support
 
 | Android | iOS | MacOS | Web | Linux | Windows |
