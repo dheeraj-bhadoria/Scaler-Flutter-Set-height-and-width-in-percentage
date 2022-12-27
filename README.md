@@ -41,7 +41,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```yaml
     dependencies:
-      scaler: ^1.0.7+1
+      scaler: ^1.0.8+1
 ```
 
 Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
